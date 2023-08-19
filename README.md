@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cam Minh
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Nodejs, Go, etc.
+- 👀 I’m interested in backend stacks
+- 🌱 I’m currently learning Nodejs
 
 <!---
 minhlc98/minhlc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
